@@ -40,12 +40,3 @@ touch file1.txt file2.txt file3.txt J1.json J2.json
 mkdir f_1 f_2 f_3
 ls -la
 mv file1.txt file2.txt f_1
-
-
-
-
-
-
-
-
-
